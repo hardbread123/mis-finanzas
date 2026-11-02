@@ -1,0 +1,3 @@
+Primera versión funcional de Mis Finanzas.
+Para instalar como PWA, publica los tres archivos en un alojamiento HTTPS estático y abre el enlace en Safari > Compartir > Añadir a pantalla de inicio.
+No incluye Face ID ni notificaciones push. Los datos se guardan en localStorage de ese origen; borrar datos del navegador puede eliminarlos. Exporta respaldos regularmente. No introduzcas datos sensibles antes de añadir autenticación y cifrado.
